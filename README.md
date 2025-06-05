@@ -16,32 +16,11 @@ A passionate full-stack developer from Israel.
 <br>
 - 💬 Ask me about React, Node.js, MongoDB, or building full-stack apps from scratch.
 <br>
-- 📫 How to reach me: linkedin.com/in/sean-gah-712794308
+- 📫 How to reach me: [View My Linkedin Profile]linkedin.com/in/sean-gah-712794308
 <br>
-- 📄 Know more about my experience: [Add a link to your resume or portfolio here]
-<br>
-- ⚡ Fun fact ...
+- 📄 Know more about my experience: [View My Resume]https://github.com/seangah8/seangah8/ray/3838a4811fead885b5b9f8218a4f810cf8f3b586/SeanGahResume.pdf
 </p>
 
-A passionate full-stack developer from Israel 🇮🇱
-
-🔭 I’m currently building Nextep, my personal project, and interning at AdoptMe.
-
-🌱 I’m learning how to integrate OpenAI APIs into modern web applications.
-
-👯 I’m looking to collaborate with a company that’s open to junior developers ready to prove their skills.
-
-🤝 I’m open to working on frontend, backend, or full-stack projects.
-
-👨‍💻 Check out all my projects right here on GitHub!
-
-💬 Ask me about React, Node.js, Firebase, or building full-stack apps from scratch.
-
-📫 How to reach me: linkedin.com/in/sean-gah-712794308
-
-📄 Know more about my experience: https://github.com/seangah8/seangah8/raw/3838a4811fead885b5b9f8218a4f810cf8f3b586/SeanGahResume.pdf
-
-⚡ Fun fact: [Optional — e.g., “I used to build websites for my friends’ pets as a kid 😄”]
 
 ###
 
