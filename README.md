@@ -1,4 +1,27 @@
-<p align="left">Hi 👋, I'm Sean<br>A passionate full-stack developer from Israel.<br><br>- 🔭 I’m currently working on ...<br>- 🌱 I’m currently learning ...<br>- 👯 I’m looking to collaborate on ...(link)<br>- 🤝 I’m looking for help with ...(link)<br>- 👨‍💻 All of my projects are available at ...<br>- 📝 I regularly write articles on ...<br>- 💬 Ask me about ...<br>- 📫 How to reach me linkedin.com/in/sean-gah-712794308<br>- 📄 Know about my experiences ...<br>- ⚡ Fun fact ...</p>
+<p align="left">
+Hi 👋, I'm Sean
+<br>
+A passionate full-stack developer from Israel.
+<br>
+<br>
+- 🔭 I’m currently working on a project of mine named Nextep plus internship in AdoptMe company
+<br>
+- 🌱 I’m currently learning how to add open ai into the website
+<br>
+- 👯 I’m looking to collaborate on a company that gives ca hance to a junior like me to show my proffeshenism
+<br>
+- 🤝 I’m looking for help with frontend/backend/both
+<br>
+- 👨‍💻 All of my projects are available here on my github!
+<br>
+- 💬 Ask me about ...
+<br>
+- 📫 How to reach me linkedin.com/in/sean-gah-712794308
+<br>
+- 📄 Know about my experiences ...
+<br>
+- ⚡ Fun fact ...
+</p>
 
 ###
 
