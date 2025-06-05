@@ -18,7 +18,7 @@ A passionate full-stack developer from Israel.
 <br>
 - 📫 How to reach me: [View My Linkedin Profile](linkedin.com/in/sean-gah-712794308)
 <br>
-- 📄 Know more about my experience: [View My Resume](https://github.com/seangah8/seangah8/ray/3838a4811fead885b5b9f8218a4f810cf8f3b586/SeanGahResume.pdf)
+- 📄 Know more about my experience: [View My Resume](https://github.com/seangah8/seangah8/raw/3838a4811fead885b5b9f8218a4f810cf8f3b586/SeanGahResume.pdf)
 </p>
 
 
