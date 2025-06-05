@@ -1,24 +1,15 @@
 <p align="left">
-Hi 👋, I'm Sean
-<br>
-A passionate full-stack developer from Israel.
-<br>
-<br>
-- 🔭 I’m currently building Nextep, my personal project, and interning at AdoptMe.
-<br>
-- 🌱 I’m learning how to integrate OpenAI APIs into modern web applications.
-<br>
-- 👯 I’m looking to collaborate with a company that’s open to junior developers ready to prove their skills.
-<br>
-- 🤝 I’m open to working on frontend, backend, or full-stack projects.
-<br>
-- 👨‍💻 Check out all my projects right here on GitHub!
-<br>
-- 💬 Ask me about React, Node.js, MongoDB, or building full-stack apps from scratch.
-<br>
-- 📫 How to reach me: [View My Linkedin Profile](linkedin.com/in/sean-gah-712794308)
-<br>
-- 📄 Know more about my experience: [View My Resume](https://github.com/seangah8/seangah8/raw/3838a4811fead885b5b9f8218a4f810cf8f3b586/SeanGahResume.pdf)
+<p>Hi 👋, I'm Sean<br>
+A passionate full-stack developer from Israel.<br><br>
+
+- 🔭 I’m currently building Nextep, my personal project, and interning at AdoptMe.<br>
+- 🌱 I’m learning how to integrate OpenAI APIs into modern web applications.<br>
+- 👯 I’m looking to collaborate with a company that’s open to junior developers ready to prove their skills.<br>
+- 🤝 I’m open to working on frontend, backend, or full-stack projects.<br>
+- 👨‍💻 Check out all my projects right here on GitHub!<br>
+- 💬 Ask me about React, Node.js, MongoDB, or building full-stack apps from scratch.<br>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/sean-gah-712794308" target="_blank">View My LinkedIn Profile</a><br>
+- 📄 Know more about my experience: <a href="https://github.com/seangah8/seangah8/raw/3838a4811fead885b5b9f8218a4f810cf8f3b586/SeanGahResume.pdf" target="_blank">View My Resume</a><br>
 </p>
 
 
