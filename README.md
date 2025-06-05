@@ -39,7 +39,7 @@ A passionate full-stack developer from Israel 🇮🇱
 
 📫 How to reach me: linkedin.com/in/sean-gah-712794308
 
-📄 Know more about my experience: [Add a link to your resume or portfolio here]
+📄 Know more about my experience: https://github.com/seangah8/seangah8/raw/3838a4811fead885b5b9f8218a4f810cf8f3b586/SeanGahResume.pdf
 
 ⚡ Fun fact: [Optional — e.g., “I used to build websites for my friends’ pets as a kid 😄”]
 
