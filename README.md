@@ -4,24 +4,44 @@ Hi 👋, I'm Sean
 A passionate full-stack developer from Israel.
 <br>
 <br>
-- 🔭 I’m currently working on a project of mine named Nextep plus internship in AdoptMe company
+- 🔭 I’m currently building Nextep, my personal project, and interning at AdoptMe.
 <br>
-- 🌱 I’m currently learning how to add open ai into the website
+- 🌱 I’m learning how to integrate OpenAI APIs into modern web applications.
 <br>
-- 👯 I’m looking to collaborate on a company that gives ca hance to a junior like me to show my proffeshenism
+- 👯 I’m looking to collaborate with a company that’s open to junior developers ready to prove their skills.
 <br>
-- 🤝 I’m looking for help with frontend/backend/both
+- 🤝 I’m open to working on frontend, backend, or full-stack projects.
 <br>
-- 👨‍💻 All of my projects are available here on my github!
+- 👨‍💻 Check out all my projects right here on GitHub!
 <br>
-- 💬 Ask me about ...
+- 💬 Ask me about React, Node.js, MongoDB, or building full-stack apps from scratch.
 <br>
-- 📫 How to reach me linkedin.com/in/sean-gah-712794308
+- 📫 How to reach me: linkedin.com/in/sean-gah-712794308
 <br>
-- 📄 Know about my experiences ...
+- 📄 Know more about my experience: [Add a link to your resume or portfolio here]
 <br>
 - ⚡ Fun fact ...
 </p>
+
+A passionate full-stack developer from Israel 🇮🇱
+
+🔭 I’m currently building Nextep, my personal project, and interning at AdoptMe.
+
+🌱 I’m learning how to integrate OpenAI APIs into modern web applications.
+
+👯 I’m looking to collaborate with a company that’s open to junior developers ready to prove their skills.
+
+🤝 I’m open to working on frontend, backend, or full-stack projects.
+
+👨‍💻 Check out all my projects right here on GitHub!
+
+💬 Ask me about React, Node.js, Firebase, or building full-stack apps from scratch.
+
+📫 How to reach me: linkedin.com/in/sean-gah-712794308
+
+📄 Know more about my experience: [Add a link to your resume or portfolio here]
+
+⚡ Fun fact: [Optional — e.g., “I used to build websites for my friends’ pets as a kid 😄”]
 
 ###
 
